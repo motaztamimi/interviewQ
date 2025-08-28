@@ -1,1 +1,1 @@
-# interviewQ
+this repo will include all the interview Q i will solve in both python and c++
